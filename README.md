@@ -1,7 +1,27 @@
-🎓 Electronics and Communication Engineering Student | Class of 2026  
-💻 Passionate about Embedded Systems, IoT, and Software Development  
-🚀 Exploring the intersection of hardware and software to build innovative solutions  
-🔧 Skills: C/C++, Python, Embedded C, Arduino, Raspberry Pi, IoT, PCB Design  
-🌱 Currently learning: Machine Learning, Web Development, and Cloud Computing  
-📚 Always eager to learn new technologies and contribute to open-source projects  
-🌟 Let's connect and build something amazing together!  
+# Hello! I'm Prasanna Venkatesh 😃,
+
+I'm a motivated final-year Electronics and Communication Engineering student transitioning into the world of software and cloud. I enjoy solving problems and learning new technologies.
+
+---
+
+### 🚀 What I'm Up To
+
+* 🎓 Finishing my B.Tech in ECE.
+* 👨‍💻 Sharpening my programming skills, with a primary focus on **Java**.
+* ☁️ Exploring the fundamentals of **Cloud Computing** and preparing for a career in the field.
+* 💼 Actively participating in campus recruitment and looking for full-time roles.
+
+### 🛠️ My Tech Stack & Interests
+
+* **Languages:** Java
+* **Core Fields:** Electronics & Communication
+* **Interests:** Cloud Computing, Virtualization (VMware/VirtualBox), Linux (Ubuntu)
+* **Tools:** Git, GitHub
+
+### 🌱 My Goals for the Future
+
+* Secure a challenging role in the tech industry.
+* Contribute to open-source projects.
+* Continue my learning journey by preparing for exams like GATE.
+
+---
