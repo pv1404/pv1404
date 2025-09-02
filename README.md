@@ -22,6 +22,3 @@ I'm a motivated final-year Electronics and Communication Engineering student tra
 
 * Secure a challenging role in the tech industry.
 * Contribute to open-source projects.
-* Continue my learning journey by preparing for exams like GATE.
-
----
